@@ -2,12 +2,12 @@
 
 ## Description
 
-Projecto para aprender a como hacer una arquitectura con php vanilla y de paso commo crear un excel partiendo de una base de datos para generar reportes
+Proyecto para aprender a como hacer una arquitectura con php vanilla y de paso como crear un excel partiendo de una base de datos para generar reportes.
 
 ## Desafios
 
 - Cargar las clases con el autoload de composer.
-- Organizar las carpetas del proeycto con una arquitectura aceptable para este proyecto.
+- Organizar las carpetas del proyecto con una arquitectura aceptable para este proyecto.
 - Generar un archivo excel desde php para generar reportes de datos.
 
 ## Levantar el proyecto en local
