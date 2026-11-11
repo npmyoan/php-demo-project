@@ -1,0 +1,14 @@
+name: manual
+
+on:
+    workflow_dispatch:
+jobs:
+    build:
+        runs-on: ubuntu-24.04
+        steps:
+            - name: saludar
+              run: echo "Hola Github Actions!"
+            - name: Ver fecha del runer
+              run: date
+            - name: Ver archivos disponibles
+              run: ls -la
